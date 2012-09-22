@@ -6,4 +6,6 @@
 
 \f0\fs24 \cf0 Git Exercise for Branching and Merging\
 \
-First Change in the txt File }
+First Change in the txt File \
+\
+Second Change in the text File on branch iss01}
